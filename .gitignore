@@ -1,0 +1,7 @@
+*.o
+Makefile
+cfitsio.pc
+config.log
+config.status
+include
+lib
